@@ -8,10 +8,11 @@
 import SwiftUI
 
 @main
-struct assignment_notebookkApp: App {
+struct AssignmentNotebookRedoApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
         }
     }
 }
+
